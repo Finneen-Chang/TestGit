@@ -10,6 +10,7 @@ object test1 {
     println("Fuck Git!")
     println("Hello!")
     println("New Line!")
+    println("A Branch!")
   }
 
 }
