@@ -6,6 +6,7 @@ object test1 {
   def main(args: Array[String]): Unit = {
     println("Fuck Git!")
     println("Hello!")
+    println("New Line!")
   }
 
 }
